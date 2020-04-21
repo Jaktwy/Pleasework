@@ -1,5 +1,5 @@
 #pragma once
-#include "HelloGL.h"
+
 
 
 struct Vector3 { float x; float y; float z; };

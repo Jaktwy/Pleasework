@@ -19,7 +19,7 @@ public:
 
 	void Display();
 
-	void DrawCubeArray();
+	
 
 	void DrawPolygon();
 
